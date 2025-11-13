@@ -12,7 +12,12 @@ const Services = () => {
       description: "Expert repair services for all makes and models",
       features: [
         "Hardware diagnostics and repair",
+        "Laptop & computer sales",
         "Software troubleshooting",
+        "OS Installaion",
+        "Screen replacement",
+        "Casing Replacement",
+        "Home & Office System onsite fixes ",
         "Virus removal and security",
         "Data recovery",
         "Performance optimization",
@@ -24,8 +29,10 @@ const Services = () => {
       description: "Fast, reliable repairs for mobile devices",
       features: [
         "Screen replacement",
+        "Phone  Accessories"
         "Battery replacement",
         "Water damage repair",
+        "Mother board Replacement"
         "Charging port repair",
         "Same-day service available",
       ],
