@@ -26,22 +26,22 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      content: "123 Tech Street, Business District, City",
+      content: "Imenti House, Shop,Nairobi-Kenya",
     },
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
+      content: "0742325380",
     },
     {
       icon: Mail,
       title: "Email Us",
-      content: "info@hugosolutions.com",
+      content: "info@hugosolutions.org",
     },
     {
       icon: Clock,
       title: "Business Hours",
-      content: "Mon-Fri: 9AM-6PM\nSat: 10AM-4PM",
+      content: "Mon-Fri: 9AM-9PM\nSat: 9AM-7PM",
     },
   ];
 
@@ -101,7 +101,7 @@ const Contact = () => {
                   <CardContent className="p-0">
                     <div className="aspect-video bg-muted rounded-lg overflow-hidden">
                       <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2412648718453!2d-73.98823492346356!3d40.74844097138558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1699999999999!5m2!1sen!2sus"
+                        src="https://maps.app.goo.gl/7C7CMLiitrGFgz9M8"
                         width="100%"
                         height="100%"
                         style={{ border: 0 }}
