@@ -29,10 +29,10 @@ const Services = () => {
       description: "Fast, reliable repairs for mobile devices",
       features: [
         "Screen replacement",
-        "Phone  Accessories"
+        "Phone Accessories",
         "Battery replacement",
         "Water damage repair",
-        "Mother board Replacement"
+        "Mother board Replacement",
         "Charging port repair",
         "Same-day service available",
       ],
